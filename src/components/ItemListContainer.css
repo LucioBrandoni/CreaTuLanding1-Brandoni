@@ -1,0 +1,10 @@
+.item-list-container {
+  padding: 2rem;
+  text-align: center;
+}
+
+.item-list-container h2 {
+  font-size: 2rem;
+  color: #222;
+  margin: 0;
+}
